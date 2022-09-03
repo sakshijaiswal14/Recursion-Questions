@@ -36,6 +36,7 @@ func(nums,i+1);
 ds.pop_back();
 }
 }
+```
 
 NOTE
 ***unique()*** is used to remove duplicates of any element present consecutively in a range[first, last)
