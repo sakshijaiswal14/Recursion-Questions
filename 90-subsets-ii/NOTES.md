@@ -36,3 +36,8 @@ func(nums,i+1);
 ds.pop_back();
 }
 }
+
+NOTE
+***unique()*** is used to remove duplicates of any element present consecutively in a range[first, last)
+it does not changes the size of container
+***erase()*** is used to remove specific elements from the container or a range of elements from the container, reducing its size by the number of elements removed
